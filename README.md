@@ -73,6 +73,25 @@ Le tableau de bord permet de :
 - Comparer les genres, décennies, profils utilisateurs
 - Mettre en avant les films polarisants, sous-cotés ou recommandés
 
+## 🖼️ Aperçu du tableau de bord Power BI
+
+Voici quelques captures du rapport interactif construit avec Power BI à partir des vues SQL PostgreSQL :
+
+### 🔍 Vue d’ensemble des notations
+![Vue d’ensemble](https://github.com/HammicheR/MovieLens-Analysis/raw/master/Capture%20Rapport%20PBI/1_vue_d_ensemble.png)
+
+### 🎬 Analyse par genre et décennie
+![Genres](https://github.com/HammicheR/MovieLens-Analysis/raw/master/Capture%20Rapport%20PBI/2_genres_et_decennies.png)
+
+### 👤 Profils utilisateurs
+![Profils](https://github.com/HammicheR/MovieLens-Analysis/raw/master/Capture%20Rapport%20PBI/3_profils_utilisateurs.png)
+
+### 🎯 Films recommandés, sous-cotés et polarisants
+![Recommandations](https://github.com/HammicheR/MovieLens-Analysis/raw/master/Capture%20Rapport%20PBI/4_recommandations.png)
+
+### 📌 Page de conclusion
+![Conclusion](https://github.com/HammicheR/MovieLens-Analysis/raw/master/Capture%20Rapport%20PBI/5_conclusion.png)
+
 ---
 
 ## 🧠 Ce que ce projet démontre
