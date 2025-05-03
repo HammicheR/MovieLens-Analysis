@@ -90,6 +90,7 @@ Le tableau de bord permet de :
 👤 Réalisé par Hammiche Reda – Data Analyst en reconversion (ex-producteur/réalisateur)  
 🔗 https://www.linkedin.com/in/hammicheradouan/  
 📧 hammiche.radouan@outlook.com
+<<<<<<< HEAD
 
 # 🎬 MovieLens Analysis – Projet Data Analyst
 
@@ -183,3 +184,5 @@ Le tableau de bord permet de :
 👤 Réalisé par Hammiche Reda – Data Analyst en reconversion (ex-producteur/réalisateur)  
 🔗 https://www.linkedin.com/in/hammicheradouan/  
 📧 hammiche.radouan@outlook.com
+=======
+>>>>>>> 09bd499023bdc4207886d755e9d863bda4f4ac07
